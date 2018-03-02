@@ -1,5 +1,4 @@
 ## Getting Started
-If you're only developing for one platform you can ignore the steps below that are tagged with the platform you don't require.
 
 ### 1) Clone & Install Dependencies
 1.1) Clone Project
